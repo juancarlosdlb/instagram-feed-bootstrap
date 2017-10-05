@@ -1,0 +1,64 @@
+body{
+    font-family: helvetica;
+    font-weight: 100;
+    background-color: #eaeaea;
+    margin: 0;
+    padding: 0;
+}
+
+#bgHeader{
+    background-color: #ffffff;
+}
+
+#header{
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h1{
+    font-family: helvetica;
+    font-size: 25pt;
+    font-weight: 700;
+}
+
+h2{
+    font-family: helvetica;
+    font-size: 14pt;
+    font-weight: 600;
+    color: black;
+    line-height: 55px
+}
+
+#postBg{
+    background-color: #ffffff;
+}
+
+#postTitle{
+    background-color: #ffffff;
+    margin: 0px;
+    height: 55px;
+}
+
+#dateStyle{
+    font-family: helvetica;
+    color: #aaaaaa;
+    font-size: 12pt;
+    text-align: right;
+    line-height: 55px
+}
+
+#commentBg{
+    background-color: white;
+    font-size: 12pt;
+    padding: 10px 10px;
+    margin-bottom: 0px
+}
+
+img{
+  width: 100%;
+}
+
+p{
+    margin: 0px;
+}
